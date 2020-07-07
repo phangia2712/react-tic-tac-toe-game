@@ -1,3 +1,7 @@
+git commit -m "first commit"
+git remote add origin git@github.com:phangia2712/react-tic-tac-toe-game.git
+git push -u origin master
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
