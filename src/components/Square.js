@@ -2,7 +2,7 @@ import React from 'react';
 
 function Square(props) {
     let { value, winnerIs } = props
-    console.log('winnerIs', winnerIs)
+    console.log('value', value)
     function handleClick(){
         props.handleClickButton()
     }
